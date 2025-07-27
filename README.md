@@ -80,20 +80,6 @@ npm run dev
 
 Visit `http://localhost:3000`
 
-## 📸 Demo
-
-Add demo GIFs or screenshots in `/screenshots` and embed them here:
-
-```
-![Prompt to Preview](./screenshots/demo.gif)
-![Editor UI](./screenshots/editor.png)
-```
-
-## ✅ Resume Highlights
-
-* **Developed** PageCraft AI to generate full-stack apps via GPT APIs, cutting setup time by \~60% using in-browser execution.
-* **Integrated** XML parsing and WebContainers to dynamically execute 100+ shell-level commands per session without remote builds.
-* **Built** a React IDE with Monaco Editor and live preview, enabling iterative edits via follow-up natural-language prompts.
 
 ## 📜 License
 
